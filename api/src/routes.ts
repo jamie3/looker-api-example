@@ -3,6 +3,6 @@ import runLook from './run-look';
 
 const routes = express.Router();
 
-routes.get('/look/:lookId', runLook);
+routes.get('/looks/:lookId', runLook);
 
 export default routes;
