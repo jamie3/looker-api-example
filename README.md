@@ -1,8 +1,8 @@
 # looker api example
 
-An express app that connects to Google Looker and runs a Look and sends the data back as JSON. The front end is a Vue3 app that displays the  
+An Express app that connects to Google Looker and runs a Look and sends the data back as JSON. The front end is a Vue3 app that displays the results from the Express app.
 
-Sample project that connects to Looker and runs queries.
+[![alt](./app.png)]
 
 ## Setup API
 
