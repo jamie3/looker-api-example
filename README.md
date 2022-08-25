@@ -2,7 +2,13 @@
 
 An Express app that connects to Google Looker and runs a Look and sends the data back as JSON. The front end is a Vue3 app that displays the results from the Express app.
 
-[![alt](./app.png)]
+The Look in Looker
+
+![alt](./looker.png)
+
+Same chart rendered in Chart.js
+
+![alt](./app.png)
 
 ## Setup API
 
