@@ -1,5 +1,4 @@
 import { Request, Response, NextFunction } from 'express';
-import JSON5 from 'json5';
 import looker from './looker';
 
 const runLook = async (req: Request, res: Response, next: NextFunction) => {
